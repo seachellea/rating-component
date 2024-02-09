@@ -2,6 +2,7 @@
 <em>A Frontend Mentor Challenge wherein you are tasked to build this interactive rating component and get it looking as close to the design as possible.</em>
 
 [Frontend Mentor Challenge »](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+
 [Live Site »](https://seachellea.github.io/rating-component/)
 
 ## Tools Used:
