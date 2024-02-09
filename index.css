@@ -122,6 +122,37 @@ body {
 
 .modal-container {
   display: none;
+  background: linear-gradient(5deg, #181b1f, rgb(34, 43, 54));
+  border-radius: 20px;
+  max-width: 420px;
+  padding: 1.8rem 1.5rem;
+  text-align: center;
+}
+
+.modal-container img {
+  margin: 1rem 0;
+}
+
+.user-rating {
+  background: var(--dark-blue);
+  width: fit-content;
+  padding: 7px 20px;
+  border-radius: 30px;
+  color: #ff9244;
+  margin: 0 auto;
+}
+
+.rating-header {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 2rem 0 1rem 0;
+}
+
+.rating-details {
+  font-size: 1.03rem;
+  font-weight: 400;
+  color: var(--light-grey);
+  line-height: 1.5;
 }
 
 .attribution {
