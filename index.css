@@ -80,7 +80,15 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 1.1rem;
+  font-weight: 600;
   color: var(--medium-grey);
+}
+
+.number:hover {
+  background-color: var(--light-grey);
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
 }
 
 .submit-btn {
@@ -95,6 +103,14 @@ body {
   font-size: 0.9rem;
   letter-spacing: 3px;
   text-align: center;
+  font-weight: 600;
+}
+
+.submit-btn:hover {
+  background-color: white;
+  color: var(--orange);
+  cursor: pointer;
+  font-weight: 600;
 }
 
 .modal-container {
