@@ -1,9 +1,8 @@
 # Interactive Rating Component
 <em>A Frontend Mentor Challenge wherein you are tasked to build this interactive rating component and get it looking as close to the design as possible.</em>
 
-<a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI" target="_blank">View the Frontend Mentor Challenge »</a> <br>
-
-<a href="https://seachellea.github.io/rating-component/" target="_blank">Live Site »</a> <br>
+[Frontend Mentor Challenge »](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+[Live Site »](https://seachellea.github.io/rating-component/)
 
 ## Tools Used:
 <picture>
@@ -25,6 +24,7 @@
 - Mobile Responsiveness
 
 ## Output Screenshots
-![Landing page](img/Screenshot%202023-11-12%20144150.png)
-![Selecting a rating](img/Screenshot%202023-11-12%20144159.png)
-![Thank you modal](img/Screenshot%202023-11-12%20144247.png)
+![Landing page](https://github.com/seachellea/rating-component/assets/143592080/3cf58bd6-53a0-4aea-9ace-cafea6bf504c)
+![Selecting a rating](https://github.com/seachellea/rating-component/assets/143592080/94c6f1de-7cff-4e81-b3ea-ecd2918e31ab)
+![Thank you modal](https://github.com/seachellea/rating-component/assets/143592080/3d8171c1-7a2f-470d-85ed-13e0025f2f55)
+
