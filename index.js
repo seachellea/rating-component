@@ -1,12 +1,12 @@
 const submitBtn = document.querySelector(".submit-btn");
 const ratingContainer = document.querySelector(".container");
 const modalContainer = document.querySelector(".modal-container");
-const numberBtn = document.querySelector(".number");
 const oneBtn = document.querySelector("#one");
 const twoBtn = document.querySelector("#two");
 const threeBtn = document.querySelector("#three");
 const fourBtn = document.querySelector("#four");
 const fiveBtn = document.querySelector("#five");
+const rating = document.querySelector('.user-rating');
 
 submitBtn.addEventListener("click", () => {
   ratingContainer.style.display = "none";
@@ -75,22 +75,27 @@ const styleChange = (buttonId) => {
 const buttonClick = () => {
   oneBtn.addEventListener("click", () => {
     styleChange("one");
+    rating.innerText = `You selected 1 out 5`
   });
 
   twoBtn.addEventListener("click", () => {
     styleChange("two");
+    rating.innerText = `You selected 2 out 5`
   });
 
   threeBtn.addEventListener("click", () => {
     styleChange("three");
+    rating.innerText = `You selected 3 out 5`
   });
 
   fourBtn.addEventListener("click", () => {
     styleChange("four");
+    rating.innerText = `You selected 4 out 5`
   });
 
   fiveBtn.addEventListener("click", () => {
     styleChange("five");
+    rating.innerText = `You selected 5 out 5`
   });
 };
 
